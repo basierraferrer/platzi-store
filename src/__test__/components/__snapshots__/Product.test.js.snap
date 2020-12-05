@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Snapshot Comprobar la UI Product 1`] = `
+<div
+  className="Products-item"
+>
+  <img
+    alt="Camiseta"
+    src="https://arepa.s3.amazonaws.com/camiseta.png"
+  />
+  <div
+    className="Products-item-info"
+  >
+    <h2>
+      Camiseta
+      <span>
+        $
+        25
+      </span>
+    </h2>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    </p>
+  </div>
+  <button
+    type="button"
+  >
+    Comprar
+  </button>
+</div>
+`;
